@@ -1,0 +1,72 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="AddToFavoritesPopup" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.Jdbc.Execute" />
+  <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="DuplicatesForm.SendToLeft" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt period" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt comma" />
+  </action>
+  <action id="FileChooser.GotoHome" />
+  <action id="FileChooser.GotoProject" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="GotoBookmark1" />
+  <action id="GotoBookmark2" />
+  <action id="Groovy.Shell.Execute" />
+  <action id="IncrementWindowHeight" />
+  <action id="JumpToLastChange">
+    <mouse-shortcut keystroke="button4" />
+  </action>
+  <action id="JumpToNextChange">
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="KotlinShellExecute" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="shift alt page_down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="shift alt page_up" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
+  <action id="ReformatWithPrettierAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ResizeToolWindowDown" />
+  <action id="ShowReformatFileDialog">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="ViewSource" />
+</keymap>
