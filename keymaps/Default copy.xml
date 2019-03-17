@@ -6,29 +6,13 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="CollapseAll">
-    <keyboard-shortcut first-keystroke="ctrl subtract" />
-  </action>
-  <action id="CollapseExpandableComponent">
-    <keyboard-shortcut first-keystroke="shift enter" />
-    <keyboard-shortcut first-keystroke="ctrl subtract" />
-  </action>
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="ctrl subtract" />
-  </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.EditFilterCriteria" />
-  <action id="DSM.ZoomIn">
-    <keyboard-shortcut first-keystroke="ctrl add" />
-  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
-  </action>
-  <action id="EditorDecreaseFontSize">
-    <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -36,27 +20,11 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
-  <action id="EditorIncreaseFontSize">
-    <keyboard-shortcut first-keystroke="ctrl equals" />
-  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt comma" />
-  </action>
-  <action id="ExpandAll">
-    <keyboard-shortcut first-keystroke="ctrl add" />
-  </action>
-  <action id="ExpandExpandableComponent">
-    <keyboard-shortcut first-keystroke="shift enter" />
-    <keyboard-shortcut first-keystroke="ctrl add" />
-  </action>
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="ctrl add" />
-  </action>
-  <action id="ExternalSystem.ExpandAll">
-    <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
@@ -66,9 +34,6 @@
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="Groovy.Shell.Execute" />
-  <action id="Images.Editor.ZoomIn">
-    <keyboard-shortcut first-keystroke="ctrl add" />
-  </action>
   <action id="IncrementWindowHeight" />
   <action id="JumpToLastChange">
     <mouse-shortcut keystroke="button4" />
@@ -77,9 +42,6 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="KotlinShellExecute" />
-  <action id="Maven.ExpandAll">
-    <keyboard-shortcut first-keystroke="ctrl add" />
-  </action>
   <action id="MoveStatementDown">
     <keyboard-shortcut first-keystroke="shift alt page_down" />
   </action>
@@ -105,9 +67,6 @@
   <action id="ResizeToolWindowDown" />
   <action id="ShowReformatFileDialog">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
-  </action>
-  <action id="UML.ZoomIn">
-    <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="ViewSource" />
 </keymap>
