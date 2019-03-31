@@ -39,6 +39,8 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
+  <action id="EditorLineEnd" />
+  <action id="EditorLineStart" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
@@ -88,9 +90,11 @@
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl 1" />
+    <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl 2" />
+    <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
